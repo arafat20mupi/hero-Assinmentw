@@ -12,12 +12,12 @@ html {
     font-size: 62.5%;
 }
 
-/* reused styles */
+/* common  styles */
 
 section {
     width: 80%;
     margin: auto;
-    padding: 10rem 0;
+    padding: 5rem 0;
 }
 
 a {
@@ -61,6 +61,7 @@ header {
     color: #131318;
     font-size: 3.6rem;
     font-weight: 800;
+    padding: 10px;
 }
 
 .logo h2 span {
